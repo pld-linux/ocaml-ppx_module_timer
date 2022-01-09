@@ -49,7 +49,7 @@ używających biblioteki ppx_module_timer.
 
 %package devel
 Summary:	A ppx extension to record module startup times - development part
-Summary(pl.UTF-8):	Rozszerzenie ppx to zapisywania czasów startu modułów - cześć programistyczna
+Summary(pl.UTF-8):	Rozszerzenie ppx to zapisywania czasów startu modułów - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
